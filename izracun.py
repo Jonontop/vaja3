@@ -1,4 +1,8 @@
 def izracun(a, b):
     return a + b
 
-print("Rezultat:", izracun(10, 5))
+def zmnozek(a, b):
+    return a * b
+
+print("Vsota:", izracun(10, 5))
+print("Zmnožek:", zmnozek(10, 5))
